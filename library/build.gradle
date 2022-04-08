@@ -7,7 +7,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion '25.0.0'
 
-    resourcePrefix "bluetoothkit_"
+    resourcePrefix "bluetoothkit_" %100
 
     defaultConfig {
         minSdkVersion 9
